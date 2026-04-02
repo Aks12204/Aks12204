@@ -1,21 +1,48 @@
-Hi 👋, I'm Abhishek Singh  
-💻 Aspiring Developer | Java | Web Dev  
+<h1>Hi 👋, I'm Abhishek Singh</h1>  
+<h2>💻 Aspiring Developer | Java | Web Dev</h2>  
+### 👋 Hi, I'm Abhishek Singh
 
-## 🚀 Skills
-- Java ☕
-- Python 🐍
-- HTML, CSS, JS 🌐
+🎓 I'm a **3rd-year B.Tech student** with a strong foundation in **programming, data structures, and core computer science concepts**. I have hands-on experience with **Java (OOP), C, and C++**, along with academic exposure to **Machine Learning using Python, Data Science fundamentals, and Predictive Analysis without relying on external libraries**.
 
-## 🔥 Projects
-- Portfolio Website
-- FAQ Chatbot
-- Mental Health Support Chatbot
+💾 I am also skilled in working with **SQL databases** and have a solid understanding of **Automata Theory and Compiler Design**, which strengthen my problem-solving and system-level thinking.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+🚀 I have actively contributed to team-based projects, including:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+* 🧠 **Mental Health Support Chatbot** – focused on providing conversational assistance and support
+* 🎫 **Query/Ticket Management System** – designed to handle user complaints and queries efficiently
 
-![Banner](https://png.pngtree.com/thumb_back/fh260/background/20251027/pngtree-a-programmer-s-desk-setup-with-multiple-monitors-displaying-code-illuminated-image_20072978.webp)
+🌐 Currently, I am expanding my skill set in **Web Development**, learning **HTML, CSS, and JavaScript** to build interactive and user-friendly applications.
+
+💡 I am passionate about **building real-world projects, improving my coding skills, and exploring new technologies**. I enjoy collaborating in teams and continuously learning to grow as a developer.
+<hr>
+<p> <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" </p>
+- 🔭 I’m currently working on **fake_news_detection**
+
+- 🌱 I’m currently learning **HTML,CSS and JAVAScript**
+
+- 👯 I’m looking to collaborate on **Machine Learning / Web Development Projects**
+
+- 🤝 I’m looking for help with **Monitoring System using ML models**
+
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,ML with PYTHON,DATA ANALSIS,**
+
+- 📫 How to reach me **ps5878276@gmail.com**
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhishek kushwha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkdin" height="30" width="40" />www.linkedin.com/in/abhishek-singh-30749129a</a>
+<a href="https://www.leetcode.com/abhishek kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />https://leetcode.com/u/Aks10432/</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aks12204&theme=dark" />
+</p>
+<p><img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /></p>
 
 <!--
 **Aks12204/Aks12204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
