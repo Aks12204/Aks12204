@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Abhishek Singh</h1>  
 <h2>💻 Aspiring Developer | Java | Web Dev</h2>  
-### 👋 Hi, I'm Abhishek Singh
-
 🎓 I'm a **3rd-year B.Tech student** with a strong foundation in **programming, data structures, and core computer science concepts**. I have hands-on experience with **Java (OOP), C, and C++**, along with academic exposure to **Machine Learning using Python, Data Science fundamentals, and Predictive Analysis without relying on external libraries**.
 
 💾 I am also skilled in working with **SQL databases** and have a solid understanding of **Automata Theory and Compiler Design**, which strengthen my problem-solving and system-level thinking.
