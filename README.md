@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Abhishek Singh</h1>  
 <h2>💻 Aspiring Developer | Java | Web Dev</h2>  
+
 🎓 I'm a **3rd-year B.Tech student** with a strong foundation in **programming, data structures, and core computer science concepts**. I have hands-on experience with **Java (OOP), C, and C++**, along with academic exposure to **Machine Learning using Python, Data Science fundamentals, and Predictive Analysis without relying on external libraries**.
 
 💾 I am also skilled in working with **SQL databases** and have a solid understanding of **Automata Theory and Compiler Design**, which strengthen my problem-solving and system-level thinking.
@@ -14,7 +15,8 @@
 💡 I am passionate about **building real-world projects, improving my coding skills, and exploring new technologies**. I enjoy collaborating in teams and continuously learning to grow as a developer.
 <hr>
 <p> <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" </p>
-- 🔭 I’m currently working on **fake_news_detection**
+
+- 🔭 I’m currently working on **Portfolio Maker**
 
 - 🌱 I’m currently learning **HTML,CSS and JAVAScript**
 
