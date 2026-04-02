@@ -1,4 +1,21 @@
-## Hi there 👋
+Hi 👋, I'm Abhishek Singh  
+💻 Aspiring Developer | Java | Web Dev  
+
+## 🚀 Skills
+- Java ☕
+- Python 🐍
+- HTML, CSS, JS 🌐
+
+## 🔥 Projects
+- Portfolio Website
+- FAQ Chatbot
+- Mental Health Support Chatbot
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+![Banner](https://png.pngtree.com/thumb_back/fh260/background/20251027/pngtree-a-programmer-s-desk-setup-with-multiple-monitors-displaying-code-illuminated-image_20072978.webp)
 
 <!--
 **Aks12204/Aks12204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
