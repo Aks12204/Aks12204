@@ -1,3 +1,5 @@
+![Banner](/assets/github-header-banner%20(1).png)
+<hr>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=35&width=700&color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Abhishek+Singh;Java+Developer;DSA+Learner;Web+Dev+Enthusiast" />
 </p>
@@ -69,7 +71,9 @@
 </p>
 
 <p><img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /></p>
+<hr>
 
+![Banner](/assets/1.png)
 <!--
 **Aks12204/Aks12204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
