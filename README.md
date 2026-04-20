@@ -1,4 +1,4 @@
-![Banner](/assets/github-header-banner%20(1).png)
+
 <hr>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=35&width=700&color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Abhishek+Singh;Java+Developer;DSA+Learner;Web+Dev+Enthusiast" />
